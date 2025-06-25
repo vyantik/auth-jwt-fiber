@@ -1,4 +1,4 @@
-# JWT Authentication Service
+# JWT Authentication Fiber
 
 Современный микросервис для аутентификации и авторизации с использованием JWT токенов, построенный на Go с использованием Fiber framework.
 
